@@ -11,7 +11,7 @@ baseurl: "/site-eig"
 url: "https://elisabethfainstein.github.io"
 twitter_username: etalab
 github_username:  entrepreneur-interet-general
-list_url: https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio
+#list_url: https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio
 
 plugins: [jekyll-paginate-v2]
 gems: [jekyll-paginate-v2]
