@@ -18,6 +18,7 @@ plugins: [jekyll-paginate-v2]
 gems: [jekyll-paginate-v2]
 
 include: [_redirects]
+exclude: ['vendor']
 
 # Build settings
 markdown: kramdown
